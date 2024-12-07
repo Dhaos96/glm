@@ -47,6 +47,8 @@ test/gtc/*.dds
 Makefile
 *.cbp
 *.user
+*.vcxproj
+*.vcxproj.filters
 
 # Misc.
 *.log
